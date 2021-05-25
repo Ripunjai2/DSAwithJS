@@ -1,3 +1,7 @@
+/**
+ *Given a string, find the counts of all the characters(only alphabets) present.
+ */
+
 function charCounts(str) {
   var res = {};
   for (i = 0; i < str.length; i++) {
