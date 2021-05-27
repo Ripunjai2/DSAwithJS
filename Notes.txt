@@ -3,8 +3,10 @@ The performance.now() method returns a DOMHighResTimeStamp, measured in millisec
 
 2). Auxillary Space Complexity means the space required by the algorithm and not considering the input space.
 
-3).
+3). Some inbuilt searching functions: 
 array.indexOf(___);
 array.includes(___);
 array.find(___);
 array.findIndex(___);
+**All of the above inbuilt function uses linear search.
+
