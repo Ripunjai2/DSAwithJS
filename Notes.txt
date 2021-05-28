@@ -10,3 +10,10 @@ array.find(___);
 array.findIndex(___);
 **All of the above inbuilt function uses linear search.
 
+
+4.) Array.sort();
+Sorts the elements based on each character's unicode code point value, acc to string conversion of each element.
+Only useful for sorting string and characters.
+
+**But we can tell this sort() function how to behave, by passing a compare function to it and we implement our logic in that function. As per the logic implented in that function, accoringly sort() function will behave itself.
+
