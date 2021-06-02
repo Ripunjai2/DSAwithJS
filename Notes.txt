@@ -17,3 +17,11 @@ Only useful for sorting string and characters.
 
 **But we can tell this sort() function how to behave, by passing a compare function to it and we implement our logic in that function. As per the logic implented in that function, accoringly sort() function will behave itself.
 
+
+5). Array.reduce(funct());
+figure out how this works
+
+6).
+    Beginning           End
+Array.unshift(); <---> Array.push();
+Array.shift();   <---> Array.pop();
